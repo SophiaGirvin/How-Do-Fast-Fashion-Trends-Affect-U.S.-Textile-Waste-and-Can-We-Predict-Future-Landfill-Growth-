@@ -1,4 +1,4 @@
-# fast-fashion-textile-waste-analysis
+# Fast-Fashion-Textile-Waste-Analysis
 Statistical analysis and forecasting of U.S. textile waste trends to evaluate the environmental impact of fast fashion using Python, Pandas, and regression modeling.
 # Fast Fashion Textile Waste Analysis
 
@@ -30,3 +30,5 @@ Key findings showed increasing textile waste generation and projected continued 
 - notebook.ipynb
 - dataset.csv
 - README.md
+
+  
