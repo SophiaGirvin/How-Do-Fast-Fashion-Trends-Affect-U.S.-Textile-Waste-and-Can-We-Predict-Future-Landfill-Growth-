@@ -1,0 +1,2 @@
+# How-Do-Fast-Fashion-Trends-Affect-U.S.-Textile-Waste-and-Can-We-Predict-Future-Landfill-Growth-
+This project explores how fast fashion impacts U.S. textile waste and landfill growth. Using EPA and environmental datasets (2015–2024), I analyze trends in clothing consumption, waste generation, and recycling rates through data visualization, correlation analysis, and linear regression forecasting to predict future landfill waste.
